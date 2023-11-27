@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Gerrime
-- 👀 I’m interested in ... Finance & Entertainment
-- 🌱 I’m currently learning ... Business and IT
-- 💞️ I’m looking to collaborate on ... Anything
+- Hi, I’m @Gerrime Townsend
+- I’m interested in my business 
+- 
+- I’m looking to collaborate on my business 
 - 📫 How to reach me ...
-Gatspitta@gmail.com or Gerrime123@gmail.comcccccccccccccccccccc
-
+Gerrime123@gmail.com
